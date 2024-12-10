@@ -1,0 +1,1 @@
+echo -e "고양이를 영어로 하면?,cat\n사과를 영어로 하면?,apple" > data/input.txt
