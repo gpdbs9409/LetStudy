@@ -1,6 +1,4 @@
-아래는 이 프로젝트의 `README.md` 템플릿입니다. 프로젝트의 주요 목표와 기술적 세부사항, 실행 방법 등을 포함했습니다.
 
----
 
 # LetStudy - 멀티모드 학습 시스템
 
@@ -107,10 +105,6 @@ LetStudy/
 
 ---
 
-## 👏 팀원
-- **프로젝트 리드**: Yoon
-- **개발 및 테스트**: Yoon
-- **문서화 및 발표 준비**: Yoon
 
 ---
 
@@ -119,5 +113,3 @@ LetStudy/
 - [POSIX Threads (pthreads)](https://man7.org/linux/man-pages/man7/pthreads.7.html)
 
 ---
-
-이 리드미를 바탕으로 프로젝트를 더 잘 설명할 수 있도록 필요하면 추가 수정해드릴게요! 😊
